@@ -1,4 +1,7 @@
 # RxBusLib
+
+raoqingmou / RxBusLib 的无多余依赖库备份版
+
 Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
@@ -10,7 +13,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.raoqingmou:RxBusLib:1.0.1'
+	        compile 'com.github.anyanmolong:RxBus-api25:1.0'
 	}
 
 
