@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Projects\git\RxBus-api25\rxlib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7460fdea595d131481c5d2c09ca75e8fc1da211">
+        <dex dex="F:\Projects\git\RxBus-api25\app\build\intermediates\pre-dexed\debug\classes_1a9b0ec98d7e5af1f6d69b77ba5a6d426b7e4442.jar" />
+    </item>
+
+</items>
